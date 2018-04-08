@@ -1,0 +1,16 @@
+.education
+{
+	text-align: right solid;
+	border-left:5px solid ;
+	border-right:5px solid;
+	border-top: 5px solid;
+	border-bottom:5px solid;
+	background-image:url("images/education.jpg");
+    background-size:cover;
+    height : 70%;
+	
+}
+#name
+{
+	color: red;
+}
